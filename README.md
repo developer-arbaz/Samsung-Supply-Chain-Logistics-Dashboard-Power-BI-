@@ -1,5 +1,7 @@
 # 📊 Samsung Supply Chain & Logistics Dashboard (Power BI)
 
+![Dashboard Screenshot](PASTE_YOUR_IMAGE_LINK_HERE)
+
 ## 📌 Project Overview
 This project is a **Supply Chain & Logistics Dashboard** developed using **Power BI** to analyze key business operations such as suppliers, inventory, shipments, and customers.  
 The dashboard helps in monitoring revenue, profit, delivery performance, inventory levels, and shipment delays.
